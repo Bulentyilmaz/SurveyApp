@@ -1,2 +1,2 @@
-# SurveyApp
+#  Simple SurveyApp
 Java-Springboot
